@@ -8,9 +8,9 @@ def menu():
 			print('-'*40)
 			print('MENU PRINCIPAL'.center(40))
 			print('-'*40)
-			print('\033[33m1 \033[m- \033[1;34mver pessoas cadrastadas \033[m')
-			print('\033[33m2 \033[m- \033[1;34mcadastrar uma nova pessoa\033[m')
-			print('\033[33m3 \033[m- \033[1;34msair do programa\033[m')
+			print('\033[33m 1 \033[m- \033[1;34mver pessoas cadrastadas \033[m')
+			print('\033[33m 2 \033[m- \033[1;34mcadastrar uma nova pessoa\033[m')
+			print('\033[33m 3 \033[m- \033[1;34msair do programa\033[m')
 			print('-'*40)
 			opção = int(input('\033[33mSua opção: \033[m'))
 			
