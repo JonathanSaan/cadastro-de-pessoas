@@ -1,8 +1,3 @@
 # cadastro-de-pessoas
-https://github.com/hyokojiro/cadastro-de-pessoas/issues/1#issue-1022112703
-![](https://github.com/hyokojiro/cadastro-de-pessoas/issues/1#issue-1022112703)
-![hyokojiro](https://github.com/hyokojiro/cadastro-de-pessoas/issues/1#issue-1022112703)
-
-<div align="center">
-<img src="https://github.com/hyokojiro/cadastro-de-pessoas/issues/1#issue-1022112703" width="300px" />
-</div>
+Simulador de cadastrar pessoas em python. 
+![](https://github.com/hyokojiro/cadastro-de-pessoas/blob/eef0c766161067a1399f93a9b7803a834aa44933/Screenshot_2021-10-10-19-42-26-1-1.png)
